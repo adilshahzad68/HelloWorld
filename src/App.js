@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <h1>Hello World</h1>
 
-      <p>My name is Adil Shahzad</p>
+      <p>My name is Adil Shahzad, I am student Of Masters of Computer Sciences at Uniersity of Lodz, Poland</p>
     </div>
   );
 }
